@@ -1,0 +1,181 @@
+{
+  "scripts": [
+    {
+      "id": "VT1",
+      "name": "API example",
+      "version": "1.0",
+      "author": "grabis",
+      "official": true,
+      "status": "Working",
+      "description": "Luau API example and docs (check source code)",
+      "tags": ["misc", "info"],
+      "date_create": "22.02.2026",
+      "date_update": "26.02.2026 6:28",
+      "url": "https://raw.githubusercontent.com/grab1s/VT-market/refs/heads/main/scripts/Example"
+    },
+
+    {
+      "id": "VT2",
+      "name": "Extra emote slots",
+      "version": "1.1",
+      "author": "grabis",
+      "official": true,
+      "status": "Working",
+      "description": "Unlock extra emote slots without gamepass. (WORKING)",
+      "tags": ["gamepass", "hud", "misc"],
+      "date_create": "22.02.2026",
+      "date_update": "23.02.2026 19:54",
+      "url": "https://raw.githubusercontent.com/grab1s/VT-market/refs/heads/main/scripts/ExtraSlots.luau"
+    },
+
+    {
+      "id": "VT5",
+      "name": "View Tracers",
+      "version": "1.0",
+      "author": "grabis",
+      "official": true,
+      "status": "Working",
+      "description": "Backuped feature from Vantality",
+      "tags": ["visuals", "players", "esp"],
+      "date_create": "26.02.2026",
+      "date_update": "26.02.2026 6:28",
+      "url": "https://raw.githubusercontent.com/grab1s/VT-market/refs/heads/main/scripts/ViewTracers"
+    }
+  ],
+
+  "configs": [
+    {
+      "id": "VT3",
+      "name": "darkblue cc",
+      "version": "1.0",
+      "author": "grabis",
+      "official": true,
+      "status": "Working",
+      "description": "Main cfg for vantality",
+      "tags": ["dark","blue"],
+      "date_create": "22.02.2026",
+      "date_update": "22.02.2026 15:30", 
+      "url": "https://raw.githubusercontent.com/grab1s/VT-market/refs/heads/main/cfgs/main"
+    },
+    {
+      "id": "VT4",
+      "name": "test cfg",
+      "version": "1.0",
+      "author": "femboycuteq",
+      "status": "Working",
+      "description": "Black, light red and white config, just test",
+      "tags": ["Black", "Light Red", "White"],
+      "date_create": "22.02.2026",
+      "date_update": "22.02.2026 18:00", 
+      "url": "https://pastebin.com/raw/MZpYtgsq"
+    },
+    {
+      "id": "VT8",
+      "name": "Red",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Best red visuals",
+      "tags": ["Character", "Red"],
+      "date_create": "12.04.2026",
+      "date_update": "12.04.2026 18:50", 
+      "url": "https://pastebin.com/raw/SwfFSNnz"
+    },
+    {
+      "id": "VT6",
+      "name": "Garou.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Garou visuals",
+      "tags": ["Character", "Blue"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/sJ9YdcWr"
+    },
+    {
+      "id": "VT7",
+      "name": "Genos.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Genos visuals",
+      "tags": ["Character", "Orange"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/BnxJD66t"
+    },
+    {
+      "id": "VT9",
+      "name": "Metal Bet.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Patched",
+      "description": "Metal bet visuals",
+      "tags": ["Character", "Grey"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/u4buRQMJ"
+    },
+    {
+      "id": "VT10",
+      "name": "Purple Dragon",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Purple dragon visuals",
+      "tags": ["Character", "Purple"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/gH0TbMky"
+    },
+    {
+      "id": "VT11",
+      "name": "Saitama.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Saitama visuals",
+      "tags": ["Character"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/WjRyXK7S"
+    },
+    {
+      "id": "VT12",
+      "name": "Sonic.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Sonic visuals",
+      "tags": ["Character"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/jBYmSvHe"
+    },
+    {
+      "id": "VT13",
+      "name": "Tatsumaki.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Tatsumaki visuals",
+      "tags": ["Character", "Green"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/AJ9KdQPK"
+    },
+    {
+      "id": "VT14",
+      "name": "Atomic.cc",
+      "version": "1.0",
+      "author": "phantom_KRAIT",
+      "status": "Working",
+      "description": "Atomic visuals",
+      "tags": ["Character"],
+      "date_create": "14.04.2026",
+      "date_update": "14.04.2026 6:42", 
+      "url": "https://pastebin.com/raw/jskvT6z6"
+    }
+  ]
+}
